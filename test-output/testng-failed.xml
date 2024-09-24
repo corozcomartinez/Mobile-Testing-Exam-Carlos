@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="emulator" value="true"/>
+    <parameter name="udid" value="emulator-5554"/>
+    <parameter name="platformName" value="Android"/>
+    <parameter name="deviceName" value="Pixel_8a"/>
+    <classes>
+      <class name="com.rizzo.qa.tests.NavigationTests">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterClass"/>
+          <include name="navigateFromHomeToPush"/>
+          <include name="afterMethod"/>
+          <include name="beforeTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.rizzo.qa.tests.NavigationTests -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

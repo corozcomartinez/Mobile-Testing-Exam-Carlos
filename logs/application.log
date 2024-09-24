@@ -1,0 +1,26 @@
+[INFO ] 2024-09-19 21:16:46.815 com.rizzo.qa.BaseTest:51 - [INFO ] 2024-09-19 21:16:46.815 BaseTest:51 - Starting Appium Device initialization
+[INFO ] 2024-09-19 21:17:00.716 com.rizzo.qa.BaseTest:77 - [INFO ] 2024-09-19 21:17:00.716 BaseTest:77 - Appium Device initialization Successfull
+[INFO ] 2024-09-19 21:17:00.757 com.rizzo.qa.BaseTest:158 - [INFO ] 2024-09-19 21:17:00.757 BaseTest:158 - start of recording
+[INFO ] 2024-09-19 21:17:07.602 com.rizzo.qa.BaseTest:84 - [INFO ] 2024-09-19 21:17:07.602 BaseTest:84 - Clicking on views
+[INFO ] 2024-09-19 21:17:09.761 com.rizzo.qa.BaseTest:128 - [INFO ] 2024-09-19 21:17:09.761 BaseTest:128 - Creating the filepath for screenshots
+[INFO ] 2024-09-19 21:17:10.910 com.rizzo.qa.BaseTest:134 - [INFO ] 2024-09-19 21:17:10.910 BaseTest:134 - Attempting to copy Screenshot file to path
+[INFO ] 2024-09-19 21:17:10.946 com.rizzo.qa.BaseTest:143 - [INFO ] 2024-09-19 21:17:10.946 BaseTest:143 - Screenshot file copied
+[INFO ] 2024-09-19 21:17:14.000 com.rizzo.qa.BaseTest:84 - [INFO ] 2024-09-19 21:17:14.000 BaseTest:84 - Clicking on Animation
+[INFO ] 2024-09-19 21:17:15.698 com.rizzo.qa.BaseTest:128 - [INFO ] 2024-09-19 21:17:15.698 BaseTest:128 - Creating the filepath for screenshots
+[INFO ] 2024-09-19 21:17:16.090 com.rizzo.qa.BaseTest:134 - [INFO ] 2024-09-19 21:17:16.090 BaseTest:134 - Attempting to copy Screenshot file to path
+[INFO ] 2024-09-19 21:17:16.099 com.rizzo.qa.BaseTest:143 - [INFO ] 2024-09-19 21:17:16.099 BaseTest:143 - Screenshot file copied
+[INFO ] 2024-09-19 21:17:19.134 com.rizzo.qa.BaseTest:84 - [INFO ] 2024-09-19 21:17:19.134 BaseTest:84 - Clicking on Push
+[INFO ] 2024-09-19 21:17:21.116 com.rizzo.qa.BaseTest:128 - [INFO ] 2024-09-19 21:17:21.116 BaseTest:128 - Creating the filepath for screenshots
+[INFO ] 2024-09-19 21:17:21.487 com.rizzo.qa.BaseTest:134 - [INFO ] 2024-09-19 21:17:21.487 BaseTest:134 - Attempting to copy Screenshot file to path
+[INFO ] 2024-09-19 21:17:21.497 com.rizzo.qa.BaseTest:143 - [INFO ] 2024-09-19 21:17:21.497 BaseTest:143 - Screenshot file copied
+[INFO ] 2024-09-19 21:17:21.503 com.rizzo.qa.BaseTest:89 - [INFO ] 2024-09-19 21:17:21.503 BaseTest:89 - Closing app
+[INFO ] 2024-09-19 21:17:23.487 com.rizzo.qa.BaseTest:93 - [INFO ] 2024-09-19 21:17:23.487 BaseTest:93 - Launching app
+[INFO ] 2024-09-19 21:17:26.895 com.rizzo.qa.BaseTest:184 - [INFO ] 2024-09-19 21:17:26.895 BaseTest:184 - end of recording, video saved
+[INFO ] 2024-09-19 21:17:26.899 com.rizzo.qa.BaseTest:158 - [INFO ] 2024-09-19 21:17:26.899 BaseTest:158 - start of recording
+[INFO ] 2024-09-19 21:17:33.431 com.rizzo.qa.BaseTest:84 - [INFO ] 2024-09-19 21:17:33.431 BaseTest:84 - Clicking on views
+[INFO ] 2024-09-19 21:17:35.239 com.rizzo.qa.BaseTest:99 - [INFO ] 2024-09-19 21:17:35.239 BaseTest:99 - Scrolling to ScrollBars
+[INFO ] 2024-09-19 21:17:41.133 com.rizzo.qa.BaseTest:105 - [INFO ] 2024-09-19 21:17:41.133 BaseTest:105 - Scrolling to the top
+[INFO ] 2024-09-19 21:17:42.543 com.rizzo.qa.BaseTest:89 - [INFO ] 2024-09-19 21:17:42.543 BaseTest:89 - Closing app
+[INFO ] 2024-09-19 21:17:44.477 com.rizzo.qa.BaseTest:93 - [INFO ] 2024-09-19 21:17:44.477 BaseTest:93 - Launching app
+[INFO ] 2024-09-19 21:17:48.272 com.rizzo.qa.BaseTest:184 - [INFO ] 2024-09-19 21:17:48.272 BaseTest:184 - end of recording, video saved
+[INFO ] 2024-09-19 21:17:48.280 com.rizzo.qa.BaseTest:152 - [INFO ] 2024-09-19 21:17:48.280 BaseTest:152 - Quitting driver

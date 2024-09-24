@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-19T21:16:46 CST" name="Suite" finished-at="2024-09-19T21:17:50 CST" duration-ms="63566">
+    <groups>
+    </groups>
+    <test started-at="2024-09-19T21:16:46 CST" name="Test" finished-at="2024-09-19T21:17:50 CST" duration-ms="63566">
+      <class name="com.rizzo.qa.tests.NavigationTests">
+        <test-method is-config="true" signature="beforeTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:16:46 CST" name="beforeTest" finished-at="2024-09-19T21:17:00 CST" duration-ms="13927" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pixel_8a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:17:00 CST" name="beforeClass" finished-at="2024-09-19T21:17:00 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:17:00 CST" name="beforeMethod" finished-at="2024-09-19T21:17:02 CST" duration-ms="1664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:17:02 CST" name="beforeMethod" finished-at="2024-09-19T21:17:02 CST" duration-ms="30" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.rizzo.qa.tests.NavigationTests.navigateFromHomeToPush() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="navigateFromHomeToPush()[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:17:02 CST" name="navigateFromHomeToPush" finished-at="2024-09-19T21:17:21 CST" duration-ms="19046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateFromHomeToPush -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:17:21 CST" name="afterMethod" finished-at="2024-09-19T21:17:24 CST" duration-ms="2788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:17:24 CST" name="afterMethod" finished-at="2024-09-19T21:17:26 CST" duration-ms="2605" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateFromHomeToPush status=SUCCESS method=NavigationTests.navigateFromHomeToPush()[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:17:26 CST" name="beforeMethod" finished-at="2024-09-19T21:17:28 CST" duration-ms="1469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:17:28 CST" name="beforeMethod" finished-at="2024-09-19T21:17:28 CST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.rizzo.qa.tests.NavigationTests.scrollUpAndDown() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="scrollUpAndDown()[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:17:28 CST" name="scrollUpAndDown" finished-at="2024-09-19T21:17:42 CST" duration-ms="14171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollUpAndDown -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:17:42 CST" name="afterMethod" finished-at="2024-09-19T21:17:45 CST" duration-ms="2759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:17:45 CST" name="afterMethod" finished-at="2024-09-19T21:17:48 CST" duration-ms="2971" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scrollUpAndDown status=SUCCESS method=NavigationTests.scrollUpAndDown()[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:17:48 CST" name="afterClass" finished-at="2024-09-19T21:17:48 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.rizzo.qa.tests.NavigationTests@5ae76500]" started-at="2024-09-19T21:17:48 CST" name="afterTest" finished-at="2024-09-19T21:17:50 CST" duration-ms="2066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.rizzo.qa.tests.NavigationTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
